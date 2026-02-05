@@ -1,6 +1,7 @@
 ## 🎬 Nima Ansari
 
-**Film × Data × Software — building tools that tell stories.**
+** Data × Film x Software — 
+building tools that tell stories.**
 
 <img src="https://media3.giphy.com/media/z2YiftHRaPbWw/giphy.gif" width="35%" />
 
