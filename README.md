@@ -1,21 +1,38 @@
-## 👋 Hey, I’m Nima
+## 🎬 Nima Ansari
 
-**Film × Data × Software**  
-Building tools that tell stories.
+**Film × Data × Software — building tools that tell stories.**
 
-### What I’m working on
-- Data-driven software projects
-- Machine learning & analytics tools
-- Creative + technical experiments at the intersection of film and code
+<img src="https://media.giphy.com/media/3ohhwNqFMnb7wF3kUE/giphy.gif" width="100%"/>
 
-### Featured projects
-- **Project Name** – one-line outcome-focused description  
-- **Project Name** – what problem it solves + tech used  
-- **Project Name** – why it’s interesting / unique
+### 🎥 Director’s Statement
+I build software the same way films are made — with intention, structure, and audience in mind.  
+My work lives at the intersection of data, engineering, and storytelling, where code becomes a medium and data becomes narrative.
 
-### Tech I use
-Python · SQL · R · JavaScript · Git · ML · Data Visualization
+---
 
-### Let’s connect
-- 🌐 Portfolio: https://yourusername.github.io  
-- 💼 LinkedIn: https://linkedin.com/in/yourhandle
+### 🎞 Selected Works
+- **Project Title**  
+  *Role:* Developer / Analyst  
+  *Synopsis:* A data-driven project focused on extracting insight, building systems, and communicating results through thoughtful design.  
+  *Tools:* Python · SQL · Data Visualization
+
+- **Project Title**  
+  *Role:* Software Engineer  
+  *Synopsis:* An engineering-forward project exploring how software and data can support creative workflows and decision-making.  
+  *Tools:* Python · ML · Analytics
+
+- **Project Title**  
+  *Role:* Builder  
+  *Synopsis:* An experimental build blending technical depth with creative storytelling.  
+  *Tools:* R · Visualization · Systems
+
+---
+
+### 🛠 Production Toolkit
+Python · SQL · R · JavaScript · Git · Machine Learning · Data Visualization
+
+---
+
+### 📬 Contact
+🌐 Portfolio: https://yourusername.github.io  
+💼 LinkedIn: https://linkedin.com/in/yourhandle
