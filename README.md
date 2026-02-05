@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hey, I’m Nima
 
-<!--
-**na28682/na28682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Film × Data × Software**  
+Building tools that tell stories.
 
-Here are some ideas to get you started:
+### What I’m working on
+- Data-driven software projects
+- Machine learning & analytics tools
+- Creative + technical experiments at the intersection of film and code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+- **Project Name** – one-line outcome-focused description  
+- **Project Name** – what problem it solves + tech used  
+- **Project Name** – why it’s interesting / unique
+
+### Tech I use
+Python · SQL · R · JavaScript · Git · ML · Data Visualization
+
+### Let’s connect
+- 🌐 Portfolio: https://yourusername.github.io  
+- 💼 LinkedIn: https://linkedin.com/in/yourhandle
