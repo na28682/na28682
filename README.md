@@ -1,4 +1,6 @@
-## 🎬 Nima Ansari
+<h1 class="title">
+  <span class="icon">🎬</span> Nima Ansari
+</h1>
 
 ** Data × Film x Software — 
 building tools that tell stories.**
