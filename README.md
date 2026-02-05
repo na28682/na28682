@@ -12,9 +12,9 @@
 
 ---
 
-## 🎥 Director’s Statement
-I build software the way films are made — with intention, structure, and audience in mind.  
-My work lives at the intersection of **AI, data systems, and storytelling**, where models explain behavior and tools make complexity usable.
+## About Me
+Hey I'm Nima. I'm a passionate computer scientist, data scientist, and filmmaker.
+I'm looking for methods to integrate together **AI, data systems, and storytelling.**
 
 ---
 
