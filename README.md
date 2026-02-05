@@ -2,7 +2,7 @@
 
 **Film × Data × Software — building tools that tell stories.**
 
-<img src="[https://media.giphy.com/media/3ohhwNqFMnb7wF3kUE/giphy.gif](https://media3.giphy.com/media/z2YiftHRaPbWw/giphy.gif)" width="100%"/>
+<img src="https://media3.giphy.com/media/z2YiftHRaPbWw/giphy.gif" width="100%" />
 
 ### 🎥 Director’s Statement
 I build software the same way films are made — with intention, structure, and audience in mind.  
