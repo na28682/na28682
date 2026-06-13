@@ -71,7 +71,7 @@ Takes a film concept → Gemini expands it into distinct visual scene prompts �
 
 `FastAPI` `Google Gemini 1.5` `FLUX` `Python`
 
-### NeuraMatch — AI Dating App
+### [NeuraMatch](https://github.com/na28682/neuramatch) — AI Dating App
 Full-stack dating app with **Pinecone** semantic search and weighted compatibility scoring across 10+ dimensions. OpenAI GPT generates personalized match explanations using bidirectional mutual match logic.
 
 `React` `Pinecone` `OpenAI API` `Full-Stack`
