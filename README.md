@@ -20,7 +20,7 @@ Hey, I'm Nima — a computer scientist, data scientist, and filmmaker at **UT Au
 ## 💼 Experience
 
 ### ⚙️ Systems Engineer Intern — Raytheon *(May 2026 – August 2026)*
-Tewksbury, MA — defense-grade backend systems in C++ and Python on AWS.
+Tewksbury, MA — defense-grade backend systems in C++ and Python.
 - Query optimization cutting response time ~**15%** on a key endpoint
 - Python ETL pipeline normalizing **1,200+ telemetry records/day** into a 3NF SQL schema
 - Debugged integration issues between software and hardware subsystems
